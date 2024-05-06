@@ -1,8 +1,8 @@
 
 
-# Node JS Crud API
+# Node JS Crud API with JWT authentication
 
-Node JS api with Express for CRUD operation on mysql database.
+Node JS api with JWT authentication , Express for CRUD operation on mysql database.
 
 ## To Run install npm for node_modules
 
